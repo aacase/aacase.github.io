@@ -26,3 +26,10 @@
 .pushDown{
   margin-top: 50px;;
 }
+
+
+@media print {
+  body {
+    width: 8.5 in;
+  }
+}
